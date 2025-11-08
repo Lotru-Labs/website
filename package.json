@@ -1,0 +1,12 @@
+{
+  "name": "lotru-labs-website",
+  "version": "1.0.0",
+  "description": "Lotru Labs company website",
+  "scripts": {
+    "dev": "cd client && pnpm run dev",
+    "build": "cd client && pnpm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
